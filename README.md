@@ -91,6 +91,7 @@ Trends & Forecasting → Sales forecast, Yearly profit comparison.
 
 ![dashboard](images/pre_dash.png)
 
+
 🔹 Key Insights
 
 📉 High discounts reduce profit, especially in Furniture.
@@ -101,12 +102,17 @@ Trends & Forecasting → Sales forecast, Yearly profit comparison.
 
 👥 20% of customers generate 80% of revenue (Pareto principle).
 
+
 🔹 Deliverables
 
 SQL Scripts → ![queries.sql](sql/queries.sql) <br>
+
 Jupyter Notebook → ![superstore_analysis.ipynb](notebooks/superstore_analysis.ipynb) <br>
-Power BI Dashboard → dashboard/superstore.pbix <br>
-Project Report → docs/report.pdf
+
+Power BI Dashboard → [superstore.pbix](dashboard/superstore.pbix) <br>
+
+Project Report → ![report.pdf](docs/report.pdf)
+
 
 🔹 How to Run
 
@@ -117,6 +123,9 @@ Open Power BI .pbix file for interactive dashboards.<br>
 🔹 Author
 
 👤 Deepchandra Chouryal<br>
+
 💼 Aspiring Data Analyst | SQL | Python | Power BI<br>
+
 📧 Chouryaldeep777@gmail.com<br>
+
 🔗 LinkedIn
