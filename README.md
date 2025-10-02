@@ -27,7 +27,7 @@ order_details (order_id, product_id, customer_id, sales, profit, quantity, disco
 
 👉 ER Diagram:
 
-![ER Diagram](images/my-er_diagram.png)
+![ER Diagram](images/my-er-diagram.png)
 
 🔹 Steps Taken
 1. Data Cleaning & Preparation
