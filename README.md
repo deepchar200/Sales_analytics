@@ -103,8 +103,8 @@ Trends & Forecasting → Sales forecast, Yearly profit comparison.
 
 🔹 Deliverables
 
-SQL Scripts → sql/queries.sql
-Jupyter Notebook → notebooks/superstore_analysis.ipynb
+SQL Scripts → ![SQL Scripts](sql/queries.sql)
+Jupyter Notebook → ![Jupyter Notebook](notebooks/superstore_analysis.ipynb)
 Power BI Dashboard → dashboard/superstore.pbix
 Project Report → docs/report.pdf
 
