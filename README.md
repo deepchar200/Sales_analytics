@@ -71,9 +71,9 @@ Discount vs Profit (scatter).
 
 Customer contribution to revenue (Pareto).
 
-👉 Example visualization:
+👉  visualization preview:
 
-(add your plots here)
+![visualization](images/pre_visu.png)
 
 4. Power BI Dashboard
 
@@ -89,7 +89,7 @@ Trends & Forecasting → Sales forecast, Yearly profit comparison.
 
 👉 Dashboard Preview:
 
-(add your screenshot here)
+![dashboard](images/pre_dash.png)
 
 🔹 Key Insights
 
