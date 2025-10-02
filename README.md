@@ -103,22 +103,20 @@ Trends & Forecasting → Sales forecast, Yearly profit comparison.
 
 🔹 Deliverables
 
-SQL Scripts → ![SQL Scripts](sql/queries.sql)
-Jupyter Notebook → ![Jupyter Notebook](notebooks/superstore_analysis.ipynb)
-Power BI Dashboard → dashboard/superstore.pbix
+SQL Scripts → ![queries.sql](sql/queries.sql) <br>
+Jupyter Notebook → ![superstore_analysis.ipynb](notebooks/superstore_analysis.ipynb) <br>
+Power BI Dashboard → dashboard/superstore.pbix <br>
 Project Report → docs/report.pdf
 
 🔹 How to Run
 
-Clone this repo.
-
-Import CSV data into MySQL using provided scripts.
-Run Python notebook for analysis.
-Open Power BI .pbix file for interactive dashboards.
+Import CSV data into MySQL using provided scripts.<br>
+Run Python notebook for analysis.<br>
+Open Power BI .pbix file for interactive dashboards.<br>
 
 🔹 Author
 
-👤 Deepchandra Chouryal
-💼 Aspiring Data Analyst | SQL | Python | Power BI
-📧 Chouryaldeep777@gmail.com
+👤 Deepchandra Chouryal<br>
+💼 Aspiring Data Analyst | SQL | Python | Power BI<br>
+📧 Chouryaldeep777@gmail.com<br>
 🔗 LinkedIn
