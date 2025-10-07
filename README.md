@@ -1,5 +1,5 @@
 # Sales_analytics
-📊 Retail Superstore Sales & Profit Analysis (End-to-End Data Analytics Project)
+📊 Retail Superstore Sales & Profit Analysis (End-to-End Data Analytics Project)<br>
 🔹 Project Overview
 
 This project analyzes Retail Superstore sales data to uncover insights on customers, products, regions, and profitability.
@@ -42,19 +42,19 @@ Loaded cleaned CSVs into MySQL using LOAD DATA INFILE.
 
 Sample queries:
 
--- Total Sales by Region
-SELECT region, SUM(sales) AS total_sales
-FROM customers c
-JOIN order_details od ON c.customer_id = od.customer_id
-GROUP BY region
+-- Total Sales by Region<br>
+SELECT region, SUM(sales) AS total_sales<br>
+FROM customers c<br>
+JOIN order_details od ON c.customer_id = od.customer_id<br>
+GROUP BY region<br>
 ORDER BY total_sales DESC;
 
--- Top 3 Products by Sales in each Category
-SELECT category, product_name, SUM(sales) AS total_sales
-FROM products p
-JOIN order_details od ON p.product_id = od.product_id
-GROUP BY category, product_name
-ORDER BY category, total_sales DESC
+-- Top 3 Products by Sales in each Category<br>
+SELECT category, product_name, SUM(sales) AS total_sales<br>
+FROM products p<br>
+JOIN order_details od ON p.product_id = od.product_id<br>
+GROUP BY category, product_name<br>
+ORDER BY category, total_sales DESC<br>
 LIMIT 3;
 
 3. Python Analysis
